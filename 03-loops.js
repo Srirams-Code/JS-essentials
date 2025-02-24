@@ -26,3 +26,17 @@ while (j < 5) {
     console.log(j);
     j++;
 }
+
+// 3. do while loop
+//  Syntax:
+
+//  do {
+//      // code
+//  } while(condition)
+
+//  Example:
+
+do{
+    console.log("Hi");    
+}while (false);
+
