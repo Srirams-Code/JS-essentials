@@ -30,3 +30,28 @@ console.log(strings[1]);
 console.log(mixed[2]);
 console.log(arrays[1][0]);
 
+
+// array methods
+// 1. push()
+// 2. pop()
+// 3. shift()
+// 4. unshift()
+// 5. concat()
+// 6. includes()
+// 7. indexOf()
+// 8. join()
+// 9. reverse()
+// 10. slice()
+// 11. splice()
+// 12. sort()
+// 13. map()
+// 14. filter()
+// 15. reduce()
+// 16. forEach()
+
+
+// 1. push()
+// The push() method adds one or more elements to the end of an array and returns the new length of the array.
+let fruits = ["apple", "banana", "cherry"];
+console.log(fruits.push("orange"));
+console.log(fruits);
